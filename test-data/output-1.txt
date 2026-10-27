@@ -1,0 +1,6 @@
+SUCCESS     #GT4500
+SUCCESS     #TORPEDO,SINGLE
+SUCCESS
+FAIL
+FAIL
+FAIL        #üres sor után
